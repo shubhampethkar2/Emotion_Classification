@@ -52,5 +52,5 @@ user_input = st.text_input("Enter your text here:")
 if st.button("Predict"):
     predicted_emotion, label = predict_emotion(user_input)
     st.write("Predicted Emotion:", predicted_emotion)
-    st.write("Probability:", label)
+#[st.write("Probability:", label)]*    
 

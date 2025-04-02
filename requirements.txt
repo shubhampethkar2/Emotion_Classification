@@ -1,10 +1,4 @@
-tensorflow
-keras
+streamlit
 numpy
-pandas
-matplotlib
-scikit-learn
 nltk
-seaborn
-wordcloud
-
+scikit-learn
